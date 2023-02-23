@@ -1,0 +1,172 @@
+#EXTM3U tvg-shift=1 x-tvg-url="http://epg.it999.ru/epg2.xml"
+
+
+
+#EXTINF:0 group-title="ספורט" tvg-id="2684" tvg-logo="http://epg.it999.ru/img/2684.png" tvg-rec="0",ספורט 1
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/12249/index.m3u8
+#EXTINF:0 group-title="ספורט" tvg-id="2683" tvg-logo="http://epg.it999.ru/img/2683.png" tvg-rec="0",ספורט 2
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/12250/index.m3u8
+#EXTINF:0 group-title="ספורט" tvg-id="2719" tvg-logo="http://epg.it999.ru/img/2719.png" tvg-rec="0",ספורט 3
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/2388/index.m3u8
+#EXTINF:0 group-title="ספורט" tvg-id="2720" tvg-logo="http://epg.it999.ru/img/2720.png" tvg-rec="0",ספורט 4
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/12252/index.m3u8
+#EXTINF:0 group-title="ספורט" tvg-id="2682" tvg-logo="http://epg.it999.ru/img/2682.png" tvg-rec="0",ספורט 5
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/2391/index.m3u8
+#EXTINF:0 group-title="ספורט" tvg-id="3993" tvg-logo="http://epg.it999.ru/img/3993.png" tvg-rec="0",ספורט 5 LIVE
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/12255/index.m3u8
+#EXTINF:0 group-title="ספורט" tvg-id="4312" tvg-logo="http://epg.it999.ru/img/4312.png" tvg-rec="0",5 סטארס
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/12256/index.m3u8
+#EXTINF:0 group-title="ספורט" tvg-id="2681" tvg-logo="http://epg.it999.ru/img/2681.png" tvg-rec="0",ONE
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/2340/index.m3u8
+#EXTINF:0 group-title="ספורט" tvg-id="2704" tvg-logo="http://epg.it999.ru/img/2704.png" tvg-rec="0",ONE 2
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/12231/index.m3u8
+
+
+
+#EXTINF:0 group-title="עידן+" tvg-id="2673" tvg-logo="http://epg.it999.ru/img/2673.png" tvg-rec="0",כאן 11
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/12237/index.m3u8
+#EXTINF:0 group-title="עידן+" tvg-id="2670" tvg-logo="http://epg.it999.ru/img/2670.png" tvg-rec="0",קשת 12
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/2329/index.m3u8
+#EXTINF:0 group-title="עידן+" tvg-id="2671" tvg-logo="http://epg.it999.ru/img/2671.png" tvg-rec="0",ערוץ 13
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/12260/index.m3u8
+#EXTINF:0 group-title="עידן+" tvg-id="4296" tvg-logo="http://epg.it999.ru/img/4296.png" tvg-rec="0",ערוץ 14
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/12261/index.m3u8
+#EXTINF:0 group-title="עידן+" tvg-id="2711" tvg-logo="http://epg.it999.ru/img/2711.png" tvg-rec="0",חינוכית
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/2380/index.m3u8
+#EXTINF:0 group-title="עידן+" tvg-id="4306" tvg-logo="http://epg.it999.ru/img/4306.png" tvg-rec="0",כנסת
+https://contact.gostreaming.tv/Knesset/myStream/chunklist_w627554265.m3u8
+#EXTINF:0 group-title="עידן+" tvg-id="2716" tvg-logo="http://epg.it999.ru/img/2716.png" tvg-rec="0",הידברות
+https://edge-fs-10.cybercdn.live/HidabrootIL/Live97/HidabrootIL/Live97_high/chunks.m3u8
+#EXTINF:0 group-title="עידן+" tvg-id="4028" tvg-logo="http://epg.it999.ru/img/4028.png" tvg-rec="0",MUSIC IL
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/12226/index.m3u8
+#EXTINF:0 group-title="עידן+" tvg-id="2692" tvg-logo="http://epg.it999.ru/img/2692.png" tvg-rec="0",ערוץ הטיולים
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/12279/index.m3u8
+#EXTINF:0 group-title="עידן+" tvg-id="2672" tvg-logo="http://epg.it999.ru/img/2672.png" tvg-rec="0",ערוץ רוסית 9
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/2374/index.m3u8
+
+#EXTINF:0 group-title="ילדים" tvg-id="4307" tvg-logo="http://epg.it999.ru/img/4307.png" tvg-rec="0",דיסני ערוץ
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/12242/index.m3u8
+#EXTINF:0 group-title="ילדים" tvg-id="2674" tvg-logo="http://epg.it999.ru/img/2674.png" tvg-rec="0",Disney Jr
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/2333/index.m3u8
+#EXTINF:0 group-title="ילדים" tvg-id="2675" tvg-logo="http://epg.it999.ru/img/2675.png" tvg-rec="0",TeenNicK
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/2334/index.m3u8
+#EXTINF:0 group-title="ילדים" tvg-id="2679" tvg-logo="http://epg.it999.ru/img/2679.png" tvg-rec="0",הופ
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/2338/index.m3u8
+#EXTINF:0 group-title="ילדים" tvg-id="2695" tvg-logo="http://epg.it999.ru/img/2695.png" tvg-rec="0",Luli
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/2364/index.m3u8
+#EXTINF:0 group-title="ילדים" tvg-id="2697" tvg-logo="http://epg.it999.ru/img/2697.png" tvg-rec="0",Junior
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/2366/index.m3u8
+#EXTINF:0 group-title="ילדים" tvg-id="2701" tvg-logo="http://epg.it999.ru/img/2701.png" tvg-rec="0",בייבי
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/2370/index.m3u8
+#EXTINF:0 group-title="ילדים" tvg-id="2679" tvg-logo="http://epg.it999.ru/img/2679.png" tvg-rec="0",הופ ילדות ישראלית FHD
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/12213/index.m3u8
+#EXTINF:0 group-title="ילדים" tvg-id="2678" tvg-logo="http://epg.it999.ru/img/2678.png" tvg-rec="0",NICK JR
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/12228/index.m3u8
+#EXTINF:0 group-title="ילדים" tvg-id="4009" tvg-logo="http://epg.it999.ru/img/4009.png" tvg-rec="0",NICK 
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/12229/index.m3u8
+#EXTINF:0 group-title="ילדים" tvg-id="2701" tvg-logo="http://epg.it999.ru/img/2701.png" tvg-rec="0",BABY TV
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/12239/index.m3u8
+#EXTINF:0 group-title="ילדים" tvg-id="2697" tvg-logo="http://epg.it999.ru/img/2697.png" tvg-rec="0",JUNIOR
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/12240/index.m3u8
+
+
+
+
+#EXTINF:0 group-title="יס סדרות" tvg-id="4007" tvg-logo="http://epg.it999.ru/img/4007.png" tvg-rec="0",יס סדרות דרמה
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/2343/index.m3u8
+#EXTINF:0 group-title="יס סדרות" tvg-id="2972" tvg-logo="http://epg.it999.ru/img/2972.png" tvg-rec="0",יס סדרות דוקו
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/2344/index.m3u8
+#EXTINF:0 group-title="יס סדרות" tvg-id="4021" tvg-logo="http://epg.it999.ru/img/4021.png" tvg-rec="0",יס סדרות קומדי
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/2345/index.m3u8
+#EXTINF:0 group-title="יס סדרות" tvg-id="3999" tvg-logo="http://epg.it999.ru/img/3999.png" tvg-rec="0",יס סדרות אקשן
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/2346/index.m3u8
+
+
+
+
+#EXTINF:0 group-title="יס סרטים" tvg-id="2966" tvg-logo="http://epg.it999.ru/img/2966.png" tvg-rec="0",יס סרטים אקשן
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/2350/index.m3u8
+#EXTINF:0 group-title="יס סרטים" tvg-id="2974" tvg-logo="http://epg.it999.ru/img/2974.png" tvg-rec="0",יס סרטים ישראלים
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/2342/index.m3u8
+#EXTINF:0 group-title="יס סרטים" tvg-id="2967" tvg-logo="http://epg.it999.ru/img/2967.png" tvg-rec="0",יס סרטים לילדים
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/2365/index.m3u8
+#EXTINF:0 group-title="יס סרטים" tvg-id="2968" tvg-logo="http://epg.it999.ru/img/2968.png" tvg-rec="0",יס סרטים קומדיה
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/12271/index.m3u8
+#EXTINF:0 group-title="יס סרטים" tvg-id="2965" tvg-logo="http://epg.it999.ru/img/2965.png" tvg-rec="0",יס סרטים דרמה
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/12272/index.m3u8
+#EXTINF:0 group-title="יס סרטים" tvg-id="2967" tvg-logo="http://epg.it999.ru/img/2967.png" tvg-rec="0",יס סרטים לילדים
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/12273/index.m3u8
+
+
+
+
+#EXTINF:0 group-title="הוט סרטים" tvg-id="2688" tvg-logo="http://epg.it999.ru/img/2688.png" tvg-rec="0",הוט סרטים 1
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/12254/index.m3u8
+#EXTINF:0 group-title="הוט סרטים" tvg-id="2702" tvg-logo="http://epg.it999.ru/img/2702.png" tvg-rec="0",הוט סרטים 2
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/12215/index.m3u8
+#EXTINF:0 group-title="הוט סרטים" tvg-id="2703" tvg-logo="http://epg.it999.ru/img/2703.png" tvg-rec="0",הוט סרטים 3
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/2372/index.m3u8
+#EXTINF:0 group-title="הוט סרטים" tvg-id="2687" tvg-logo="http://epg.it999.ru/img/2687.png" tvg-rec="0",הוט סרטים 4
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/12218/index.m3u8
+
+
+
+
+#EXTINF:0 group-title="הוט ערוצים שונים" tvg-id="2707" tvg-logo="http://epg.it999.ru/img/2707.png" tvg-rec="0",אגו 
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/2376/index.m3u8
+#EXTINF:0 group-title="הוט ערוצים שונים" tvg-id="2708" tvg-logo="http://epg.it999.ru/img/2708.png" tvg-rec="0",ערוץ האוכל
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/2377/index.m3u8
+#EXTINF:0 group-title="הוט ערוצים שונים" tvg-id="2698" tvg-logo="http://epg.it999.ru/img/2698.png" tvg-rec="0",הוט 3
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/12214/index.m3u8
+#EXTINF:0 group-title="הוט ערוצים שונים" tvg-id="5023" tvg-logo="http://epg.it999.ru/img/5023.png" tvg-rec="0",הוט 8
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/12216/index.m3u8
+#EXTINF:0 group-title="הוט ערוצים שונים" tvg-id="5024" tvg-logo="http://epg.it999.ru/img/5024.png" tvg-rec="0",הוט COMEDY CENTRAL
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/12217/index.m3u8
+#EXTINF:0 group-title="הוט ערוצים שונים" tvg-id="2710" tvg-logo="http://epg.it999.ru/img/2710.png" tvg-rec="0",הוט ENTERTAINMENT
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/12219/index.m3u8
+#EXTINF:0 group-title="הוט ערוצים שונים" tvg-id="2691" tvg-logo="http://epg.it999.ru/img/2691.png" tvg-rec="0",הוט ZONE
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/12222/index.m3u8
+#EXTINF:0 group-title="הוט ערוצים שונים" tvg-id="2689" tvg-logo="http://epg.it999.ru/img/2689.png" tvg-rec="0",DISCOVERY ערוץ
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/12241/index.m3u8
+#EXTINF:0 group-title="הוט ערוצים שונים" tvg-id="2677" tvg-logo="http://epg.it999.ru/img/2677.png" tvg-rec="0",National Geographic
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/2336/index.m3u8
+#EXTINF:0 group-title="הוט ערוצים שונים" tvg-id="4311" tvg-logo="http://epg.it999.ru/img/4311.png" tvg-rec="0",NET GEO_WILD
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/12248/index.m3u8
+#EXTINF:0 group-title="הוט ערוצים שונים" tvg-id="4014" tvg-logo="http://epg.it999.ru/img/4014.png" tvg-rec="0",HISTORY
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/12265/index.m3u8
+#EXTINF:0 group-title="הוט ערוצים שונים" tvg-id="5071" tvg-logo="http://epg.it999.ru/img/5071.png" tvg-rec="0",BOLLYWOOD
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/12267/index.m3u8
+#EXTINF:0 group-title="הוט ערוצים שונים" tvg-id="2685" tvg-logo="http://epg.it999.ru/img/2685.png" tvg-rec="0",הוט HBO
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/2354/index.m3u8
+#EXTINF:0 group-title="הוט ערוצים שונים" tvg-id="2686" tvg-logo="http://epg.it999.ru/img/2686.png" tvg-rec="0",החיים הטובים
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/2355/index.m3u8
+#EXTINF:0 group-title="הוט ערוצים שונים" tvg-id="2717" tvg-logo="http://epg.it999.ru/img/2717.png" tvg-rec="0",i24
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/2386/index.m3u8
+#EXTINF:0 group-title="הוט ערוצים שונים" tvg-id="2709" tvg-logo="http://epg.it999.ru/img/2709.png" tvg-rec="0",ערוץ הבריאות
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/2378/index.m3u8
+#EXTINF:0 group-title="הוט ערוצים שונים" tvg-id="2710" tvg-logo="http://epg.it999.ru/img/2710.png" tvg-rec="0",Entertainment
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/2379/index.m3u8
+#EXTINF:0 group-title="הוט ערוצים שונים" tvg-id="4023" tvg-logo="http://epg.it999.ru/img/4023.png" tvg-rec="0",MTV MUSIC
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/12274/index.m3u8
+#EXTINF:0 group-title="הוט ערוצים שונים" tvg-id="2689" tvg-logo="http://epg.it999.ru/img/2689.png" tvg-rec="0",דיסקברי
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/2358/index.m3u8
+
+
+
+
+
+#EXTINF:0 group-title="טלנובלות" tvg-id="4030" tvg-logo="http://epg.it999.ru/img/4030.png" tvg-rec="0",ערוץ הדרמות הטורקיות
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/2363/index.m3u8
+#EXTINF:0 group-title="טלנובלות" tvg-id="4011" tvg-logo="http://epg.it999.ru/img/4011.png" tvg-rec="0",ים תיכוני
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/2390/index.m3u8
+#EXTINF:0 group-title="טלנובלות" tvg-id="2718" tvg-logo="http://epg.it999.ru/img/2718.png" tvg-rec="0",ויווה
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/12233/index.m3u8
+#EXTINF:0 group-title="טלנובלות" tvg-id="2713" tvg-logo="http://epg.it999.ru/img/2713.png" tvg-rec="0",ויווה+
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/12234/index.m3u8
+
+
+
+
+
+
+
