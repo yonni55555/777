@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:0 group-title="ספורט" tvg-id="sport-1-hd-YES" tvg-logo="http://epg.it999.ru/img/2684.png",ספורט 1
+#EXTINF:0 tvg-logo="http://epg.it999.ru/img/2684.png",ספורט 1
 http://d0eabb39.ottolok.net/iptv/TD8RK66UYWE8SE/12249/index.m3u8
-#EXTINF:0 group-title="ספורט" tvg-id="sport-2-HOT" tvg-logo="http://epg.it999.ru/img/2683.png",ספורט 2
+#EXTINF:0 tvg-logo="http://epg.it999.ru/img/2683.png",ספורט 2
 http://d0eabb39.ottolok.net/iptv/TD8RK66UYWE8SE/12250/index.m3u8
-#EXTINF:0 group-title="ספורט" tvg-id="sport-3-HOT" tvg-logo="http://epg.it999.ru/img/2719.png",ספורט 3
+#EXTINF:0 tvg-logo="http://epg.it999.ru/img/2719.png",ספורט 3
 http://d0eabb39.ottolok.net/iptv/TD8RK66UYWE8SE/2388/index.m3u8
 #EXTINF:0 group-title="ספורט" tvg-id="sport-4-HOT" tvg-logo="http://epg.it999.ru/img/2720.png",ספורט 4
 http://d0eabb39.ottolok.net/iptv/TD8RK66UYWE8SE/12252/index.m3u8
@@ -38,47 +38,6 @@ https://contact.gostreaming.tv/Accessibility/myStream/chunklist_w1220693175.m3u8
 https://edge-fs-10.cybercdn.live/HidabrootIL/Live97/HidabrootIL/Live97_high/chunks.m3u8
 #EXTINF:0 group-title="עידן+" tvg-id="channel-24-HOT" tvg-logo="http://epg.it999.ru/img/4028.png" tvg-rec="0",ערוץ 24 מוזיקה
 https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/hdntl=exp=1677500384~acl=%2F*~data=hdntl~hmac=0b9e657fdfd2aa6152bf11ff205ea8d3617287ede4f93ead50fcd88956fd8159/video_10801920_p_1.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-id="kan-11-YES" group-title="עידן+קודי" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/kan.jpg",כאן 11
-plugin://plugin.video.idanplus/?mode=5&url=ch_11
-
-#EXTINF:-1 tvg-id="keshet-12-YES" group-title="עידן+קודי" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/keshet.jpg",קשת 12
-plugin://plugin.video.idanplus/?mode=5&url=ch_12
-
-#EXTINF:-1 tvg-id="reshet-13-YES" group-title="עידן+קודי" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/13.jpg",רשת 13
-plugin://plugin.video.idanplus/?mode=5&url=ch_13
-
-#EXTINF:-1 tvg-id="now-14-YES" group-title="עידן+קודי" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/14tv.png",עכשיו 14
-plugin://plugin.video.idanplus/?mode=5&url=ch_14
-
-#EXTINF:-1 tvg-id="shopping-channel-HOT" group-title="עידן+קודי" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/21.jpg",ערוץ הקניות 21
-plugin://plugin.video.idanplus/?mode=5&url=ch_21
-
-#EXTINF:-1 tvg-id="kan-chinuchit-23-YES" group-title="עידן+קודי" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/23tv.jpg",כאן חינוכית 23
-plugin://plugin.video.idanplus/?mode=5&url=ch_23
-
-#EXTINF:-1 tvg-id="channel-24-HOT" group-title="עידן+קודי" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/24telad.png",ערוץ 24 החדש
-plugin://plugin.video.idanplus/?mode=5&url=ch_24
-
-#EXTINF:0 group-title="עידן+קודי" tvg-id="travel-plus-PARTNER" tvg-logo="http://epg.it999.ru/img/2692.png",ערוץ הטיולים
-http://d0eabb39.ottolok.net/iptv/TD8RK66UYWE8SE/12279/index.m3u8
-
-#EXTINF:0 group-title="עידן+קודי" tvg-id="muzika-il-HOT" tvg-logo="http://epg.it999.ru/img/5079.png",מוזיקה IL
-http://d0eabb39.ottolok.net/iptv/TD8RK66UYWE8SE/12226/index.m3u8
-
-#EXTINF:-1 tvg-id="hidabrut-YES" group-title="עידן+קודי" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/hidabroot.jpg",הידברות 97
-https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
-
-#EXTINF:-1 tvg-id="knesset-99-YES" group-title="עידן+קודי" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/knesset.png",כנסת 99
-plugin://plugin.video.idanplus/?mode=5&url=ch_99
-
-#EXTINF:0 group-title="עידן+קודי" tvg-id="israel-plus-9-YES" tvg-logo="http://epg.it999.ru/img/2672.png",ערוץ רוסית 9
-http://d0eabb39.ottolok.net/iptv/TD8RK66UYWE8SE/2374/index.m3u8
-
 #EXTINF:0 group-title="יס סדרות" tvg-id="tv-drama-YES" tvg-logo="http://epg.it999.ru/img/4007.png",יס סדרות דרמה
 http://d0eabb39.ottolok.net/iptv/TD8RK66UYWE8SE/12282/index.m3u8
 #EXTINF:0 group-title="יס סדרות" tvg-id="tv-drama-YES" tvg-logo="http://epg.it999.ru/img/4007.png",יס סדרות דרמה
@@ -101,7 +60,6 @@ http://d0eabb39.ottolok.net/iptv/TD8RK66UYWE8SE/12273/index.m3u8
 http://d0eabb39.ottolok.net/iptv/TD8RK66UYWE8SE/12271/index.m3u8
 #EXTINF:0 group-title="יס סרטים" tvg-id="movies-drama-YES" tvg-logo="http://epg.it999.ru/img/2965.png",יס סרטים דרמה
 http://d0eabb39.ottolok.net/iptv/TD8RK66UYWE8SE/movies-drama-YES/index.m3u8
-
 #EXTINF:0 group-title="הוט סרטים" tvg-id="cinema-1-HOT" tvg-logo="http://epg.it999.ru/img/2688.png",הוט סרטים 1
 http://d0eabb39.ottolok.net/iptv/TD8RK66UYWE8SE/2357/index.m3u8
 #EXTINF:0 group-title="הוט סרטים" tvg-id="cinema-2-HOT" tvg-logo="http://epg.it999.ru/img/2702.png",הוט סרטים 2
@@ -110,7 +68,6 @@ http://d0eabb39.ottolok.net/iptv/TD8RK66UYWE8SE/12215/index.m3u8
 http://d0eabb39.ottolok.net/iptv/TD8RK66UYWE8SE/2372/index.m3u8
 #EXTINF:0 group-title="הוט סרטים" tvg-id="cinema-4-HOT" tvg-logo="http://epg.it999.ru/img/2687.png",הוט סרטים 4
 http://d0eabb39.ottolok.net/iptv/TD8RK66UYWE8SE/12218/index.m3u8
-
 #EXTINF:0 group-title="הוט ערוצים שונים" tvg-id="ego-YES" tvg-logo="http://epg.it999.ru/img/2707.png",אגו 
 http://d0eabb39.ottolok.net/iptv/TD8RK66UYWE8SE/2376/index.m3u8
 #EXTINF:0 group-title="הוט ערוצים שונים" tvg-id="foody-HOT" tvg-logo="http://epg.it999.ru/img/2708.png",ערוץ האוכל
@@ -151,7 +108,6 @@ http://d0eabb39.ottolok.net/iptv/TD8RK66UYWE8SE/2379/index.m3u8
 http://d0eabb39.ottolok.net/iptv/TD8RK66UYWE8SE/12274/index.m3u8
 #EXTINF:0 group-title="הוט ערוצים שונים" tvg-id="discovery-HOT" tvg-logo="http://epg.it999.ru/img/2689.png",דיסקברי
 http://d0eabb39.ottolok.net/iptv/TD8RK66UYWE8SE/2358/index.m3u8
-
 #EXTINF:0 group-title="טלנובלות" tvg-id="turkish-drama-plus-YES" tvg-logo="http://epg.it999.ru/img/4030.png",ערוץ הדרמות הטורקיות-1
 http://d0eabb39.ottolok.net/iptv/TD8RK66UYWE8SE/2363/index.m3u8
 #EXTINF:0 group-title="טלנובלות" tvg-id="4011" tvg-logo="http://epg.it999.ru/img/4011.png",ים תיכוני
@@ -160,7 +116,6 @@ http://d0eabb39.ottolok.net/iptv/TD8RK66UYWE8SE/2390/index.m3u8
 http://d0eabb39.ottolok.net/iptv/TD8RK66UYWE8SE/12233/index.m3u8
 #EXTINF:0 group-title="טלנובלות" tvg-id="viva-plus-HOT" tvg-logo="http://epg.it999.ru/img/2713.png",ויווה+
 http://d0eabb39.ottolok.net/iptv/TD8RK66UYWE8SE/12234/index.m3u8
-
 #EXTINF:0 group-title="ילדים" tvg-id="hop-HOT" tvg-logo="http://epg.it999.ru/img/2679.png",הופ
 http://d0eabb39.ottolok.net/iptv/TD8RK66UYWE8SE/2338/index.m3u8
 #EXTINF:0 group-title="ילדים" tvg-id="hop-yaldut-HOT" tvg-logo="http://epg.it999.ru/img/2679.png",הופ ילדות ישראלית 
@@ -185,10 +140,5 @@ http://d0eabb39.ottolok.net/iptv/TD8RK66UYWE8SE/2334/index.m3u8
 http://d0eabb39.ottolok.net/iptv/TD8RK66UYWE8SE/12240/index.m3u8
 #EXTINF:0 group-title="ילדים" tvg-id="disney-HOT" tvg-logo="http://epg.it999.ru/img/2697.png",ג'וניור
 http://d0eabb39.ottolok.net/iptv/TD8RK66UYWE8SE/2366/index.m3u8
-
-
-
-
-
 
 
