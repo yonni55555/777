@@ -1,0 +1,141 @@
+#EXTM3U " url-tvg="https://af-play.com/xmltv.xml.gz"
+
+
+#EXTINF:0 group-title="ספורט" tvg-id="sport1-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/0b7991265880a94f985149bf8ae3390a.png",ספורט 1
+http://96dc02c9.ottolok.net/iptv/R28LVZLC9QL2Y6/12249/index.m3u8
+#EXTINF:0 group-title="ספורט" tvg-id="sport2-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/036c7c47bfd5865243a627bdabdb99a9.png",ספורט 2
+http://96dc02c9.ottolok.net/iptv/R28LVZLC9QL2Y6/12250/index.m3u8
+#EXTINF:0 group-title="ספורט" tvg-id="sport3-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/957ce5b9e2435ce07c2f52a688a50f03.png",ספורט 3
+http://96dc02c9.ottolok.net/iptv/R28LVZLC9QL2Y6/2388/index.m3u8
+#EXTINF:0 group-title="ספורט" tvg-id="sport4-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/82f490d1762804589363a461344e0b68.png",ספורט 4
+http://96dc02c9.ottolok.net/iptv/R28LVZLC9QL2Y6/12252/index.m3u8
+#EXTINF:0 group-title="ספורט" tvg-id="sport5-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/65dd4af6185b56b5b887588beb09e6e8.png",ספורט 5
+http://96dc02c9.ottolok.net/iptv/R28LVZLC9QL2Y6/2391/index.m3u8
+#EXTINF:0 group-title="ספורט" tvg-id="sport5-il-4k" tvg-logo="https://adsil1.com/Cellcom/1218/cellcom_russian/desktop/img/content/sport/1.png", ספורט 5(4K)
+http://96dc02c9.ottolok.net/iptv/R28LVZLC9QL2Y6/12277/index.m3u8
+#EXTINF:0 group-title="ספורט" tvg-id="sport5-plus-live-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/cf225e1fe8d65f718aca80e3ee0d6e2d.png",ספורט 5 Live
+http://96dc02c9.ottolok.net/iptv/R28LVZLC9QL2Y6/12255/index.m3u8
+#EXTINF:0 group-title="ספורט" tvg-id="sport5-stars-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/8774ff95bacd6c1043410115dd5411f1.png",ספורט 5 Stars
+http://96dc02c9.ottolok.net/iptv/R28LVZLC9QL2Y6/12256/index.m3u8
+#EXTINF:0 group-title="ספורט" tvg-id="sport5-gold-il" tvg-logo="https://af-play.com/storage/images/channel_logos/8152574add12465c708d7c61b9d771e9.png",ספורט 5 Gold
+http://96dc02c9.ottolok.net/iptv/R28LVZLC9QL2Y6/12254/index.m3u8
+#EXTINF:0 group-title="ספורט" tvg-id="one-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/3a24edb4006c59c281db73a8e5af25bf.png",One
+http://96dc02c9.ottolok.net/iptv/R28LVZLC9QL2Y6/2340/index.m3u8
+#EXTINF:0 group-title="ספורט" tvg-id="one2-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/a54ed9c1b81f41539ab3d57a2af75a9b.png",One 2
+http://96dc02c9.ottolok.net/iptv/R28LVZLC9QL2Y6/12231/index.m3u8
+#EXTINF:0 group-title="ספורט" tvg-id="ego-total-il" tvg-logo="https://af-play.com/storage/images/pack_logos/e812ef5439c74f18c56bbb2a2dfb96e7.png",Ego Total
+http://96dc02c9.ottolok.net/iptv/R28LVZLC9QL2Y6/2376/index.m3u8
+
+
+#EXTINF:0 group-title="עידן+" tvg-id="11-kanal-il" tvg-logo="https://af-play.com/storage/images/channel_logos/6773deb8a03b790ed0c1e153d4309b28.png",ערוץ 11
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/2332/index.m3u8
+#EXTINF:0 group-title="עידן+" tvg-id="12-kanal-il" tvg-logo="https://af-play.com/storage/images/pack_logos/4b9ab871a6266d2e476181eaa82e74ed.png",ערוץ 12
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/2329/index.m3u8
+#EXTINF:0 group-title="עידן+" tvg-id="13-kanal-il" tvg-logo="https://af-play.com/storage/images/pack_logos/9fb5e85f4bbf483460d2141954c325fa.png",ערוץ 13
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/12260/index.m3u8
+#EXTINF:0 group-title="עידן+" tvg-id="14-kanal-il" tvg-logo="https://af-play.com/storage/images/channel_logos/b6a9f45111dfa2d6bfcfa213cc7171fe.png",ערוץ 14
+http://alania08.tvclub.xyz/iptv/R28LVZLC9QL2Y6/12261/index.m3u8
+#EXTINF:0 group-title="עידן+" tvg-id="kan23-il" tvg-logo="https://af-play.com/storage/images/pack_logos/8e37e18c472fa294b88b9f2431c0726d.png",חינוכית 23
+https://kan23.media.kan.org.il/hls/live/2024691/2024691/source1_2.5k/chunklist.m3u8
+#EXTINF:0 group-title="עידן+" tvg-id="channel24-il-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/a0e0197581415e7215c218e760b0404a.png",ערוץ המוזיקה 24
+https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/hdntl=exp=1677500384~acl=%2F*~data=hdntl~hmac=0b9e657fdfd2aa6152bf11ff205ea8d3617287ede4f93ead50fcd88956fd8159/video_10801920_p_1.m3u8
+#EXTINF:0 group-title="עידן+" tvg-id="i24-il" tvg-logo="https://af-play.com/storage/images/pack_logos/83cfe85cc2320a6171de022ce71310a5.png",i24-ערוץ
+http://96dc02c9.ottolok.net/iptv/R28LVZLC9QL2Y6/2386/index.m3u8
+#EXTINF:0 group-title="עידן+" tvg-id="9-kanal-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/321babe4b69535b62b58880335577081.png",ערוץ 9 רוסית
+http://96dc02c9.ottolok.net/iptv/R28LVZLC9QL2Y6/2374/index.m3u8
+
+#EXTINF:0 group-title="יס סרטים" tvg-id="yes-movies-comedy-il" tvg-logo="https://af-play.com/storage/images/pack_logos/a2eb04cfdb14c1236f357c8a2c902183.png",יס סרטים קומדיה
+http://96dc02c9.ottolok.net/iptv/R28LVZLC9QL2Y6/2348/index.m3u8
+#EXTINF:0 group-title="יס סרטים" tvg-id="yes-israel-il" tvg-logo="https://af-play.com/storage/images/pack_logos/90c2d68dea64bc092417cbb0b7d5c0c4.png",יס סרטים ישראלים
+http://96dc02c9.ottolok.net/iptv/R28LVZLC9QL2Y6/2342/index.m3u8
+#EXTINF:0 group-title="יס סרטים" tvg-id="yes-movies-kids-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/802b69df911b4e41bb2c7c28e231e1ba.png", יס סרטים לילדים
+http://96dc02c9.ottolok.net/iptv/R28LVZLC9QL2Y6/12273/index.m3u8
+#EXTINF:0 group-title="יס סרטים" tvg-id="yes-movies-action-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/035fbe13775f3e26d65faff432e09a6b.png",יס סרטים אקשן
+http://96dc02c9.ottolok.net/iptv/R28LVZLC9QL2Y6/12270/index.m3u8
+#EXTINF:0 group-title="יס סרטים" tvg-id="yes-movies-drama-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/8dd7310854aad0f69f2c9b87232839a6.png",יס סרטים דרמה
+http://96dc02c9.ottolok.net/iptv/R28LVZLC9QL2Y6/12282/index.m3u8
+
+
+#EXTINF:0 group-title="יס סדרות" tvg-id="yes-action-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/4d2acbd2d3ddcf1222ddda5839d371f5.png",יס סדרות  אקשן
+http://96dc02c9.ottolok.net/iptv/R28LVZLC9QL2Y6/2346/index.m3u8
+#EXTINF:0 group-title="יס סדרות" tvg-id="yes-comedy-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/572da5c11f89984f64abcdef0043fc9a.png",יס סדרות  קומדיה
+http://96dc02c9.ottolok.net/iptv/R28LVZLC9QL2Y6/2345/index.m3u8
+#EXTINF:0 group-title="יס סדרות" tvg-id="yes-drama-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/4af2bd313ac46e72c3d1007c302173d3.png",יס סדרות  דרמה
+http://96dc02c9.ottolok.net/iptv/R28LVZLC9QL2Y6/2343/index.m3u8
+#EXTINF:0 group-title="יס סדרות" tvg-id="yes-docu-il-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/3488b39c041e8adca025c4fcb3f45efe.png",יס סדרות  דוקו
+http://96dc02c9.ottolok.net/iptv/R28LVZLC9QL2Y6/2344/index.m3u8
+
+
+#EXTINF:0 group-title="הוט סרטים" tvg-id="hot-cinema1-il" tvg-logo="https://af-play.com/storage/images/pack_logos/f14b95e0e8b95995de6e7accdba34762.png",הוט סרטים  1
+http://96dc02c9.ottolok.net/iptv/R28LVZLC9QL2Y6/2357/index.m3u8
+#EXTINF:0 group-title="הוט סרטים" tvg-id="hot-cinema2-il" tvg-logo="https://af-play.com/storage/images/pack_logos/f18976e8a3236dbdabbb35f73f6e8988.png",הוט סרטים  2
+http://96dc02c9.ottolok.net/iptv/R28LVZLC9QL2Y6/12215/index.m3u8
+#EXTINF:0 group-title="הוט סרטים" tvg-id="hot-cinema3-il" tvg-logo="https://af-play.com/storage/images/pack_logos/2edb1bb63076c75baacf2674ce8c8c37.png",הוט סרטים  3
+http://96dc02c9.ottolok.net/iptv/R28LVZLC9QL2Y6/2372/index.m3u8
+#EXTINF:0 group-title="הוט סרטים" tvg-id="hot-cinema4-il" tvg-logo="https://af-play.com/storage/images/pack_logos/e055cf2620f58c60b1e65be4717d2c22.png",הוט סרטים  4
+http://96dc02c9.ottolok.net/iptv/R28LVZLC9QL2Y6/12218/index.m3u8
+
+
+
+#EXTINF:0 group-title="טלנובלות" tvg-id="turkish-dramas-plus-il" tvg-logo="https://af-play.com/storage/images/channel_logos/1c65fed11343bb717b76ca65e3ebb7a1.png",ערוץ הדרמות הטורקיות
+http://96dc02c9.ottolok.net/iptv/R28LVZLC9QL2Y6/2363/index.m3u8
+#EXTINF:0 group-title="טלנובלות" tvg-id="turkish-dramas2-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/312f2b1946fb303b4b5b83535649e24a.png",ערוץ הדרמות הטורקיות 2
+http://96dc02c9.ottolok.net/iptv/R28LVZLC9QL2Y6/12262/index.m3u8
+#EXTINF:0 group-title="טלנובלות" tvg-id="turkish-dramas3-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/344ee81ac872815b7a1107833be75978.png",ערוץ הדרמות הטורקיות 3
+http://96dc02c9.ottolok.net/iptv/R28LVZLC9QL2Y6/12264/index.m3u8
+#EXTINF:0 group-title="טלנובלות" tvg-id="viva-il" tvg-logo="https://af-play.com/storage/images/pack_logos/69265037d112c78565f79a6188106bc8.png",ויוה טלנובלות
+http://96dc02c9.ottolok.net/iptv/R28LVZLC9QL2Y6/2387/index.m3u8
+#EXTINF:0 group-title="טלנובלות" tvg-id="viva-premium-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/96ebc157dae560177a987b96529b2fd3.png",ויוה Premium
+http://96dc02c9.ottolok.net/iptv/R28LVZLC9QL2Y6/12226/index.m3u8
+#EXTINF:0 group-title="טלנובלות" tvg-id="yamtihoni-il" tvg-logo="https://af-play.com/storage/images/channel_logos/c106807b0cc3b511840ea0ec2e804ca8.png",Yam Tichoni
+http://96dc02c9.ottolok.net/iptv/R28LVZLC9QL2Y6/2390/index.m3u8
+#EXTINF:0 group-title="טלנובלות" tvg-id="hot-bollywood-il" tvg-logo="https://af-play.com/storage/images/pack_logos/74e8c104904c99e7d7c2be832f2e43f7.png",Bollywood
+http://96dc02c9.ottolok.net/iptv/R28LVZLC9QL2Y6/12267/index.m3u8
+
+
+#EXTINF:0 group-title="מדע וטבע" tvg-id="yes-natgeo-wild-il-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/629e51301eaac62d7f3247a1de37bd9c.png",נשיונל ג'אוגרפיק Wild
+http://96dc02c9.ottolok.net/iptv/R28LVZLC9QL2Y6/12248/index.m3u8
+#EXTINF:0 group-title="מדע וטבע" tvg-id="yes-natgeo-il-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/f8e969a38871f393eeb2fd71f3121ddf.png",National נשיונל ג'אוגרפיק
+http://96dc02c9.ottolok.net/iptv/R28LVZLC9QL2Y6/12241/index.m3u8
+#EXTINF:0 group-title="מדע וטבע" tvg-id="discovery-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/8a0720a45a9d32602894d1380152a7e7.png",דיסקברי
+http://96dc02c9.ottolok.net/iptv/R28LVZLC9QL2Y6/2358/index.m3u8
+#EXTINF:0 group-title="מדע וטבע" tvg-id="history-il" tvg-logo="https://af-play.com/storage/images/channel_logos/476b8e48cf78690c990528d0c4da0ba4.png",היסטוריה
+http://96dc02c9.ottolok.net/iptv/R28LVZLC9QL2Y6/12265/index.m3u8
+
+
+#EXTINF:0 group-title="בידור ופנאי" tvg-id="entertainment-il" tvg-logo="https://af-play.com/storage/images/pack_logos/d1a204c0caed85c4de60fa153a3d2391.png",הוט בידור ישראלי
+http://96dc02c9.ottolok.net/iptv/R28LVZLC9QL2Y6/12219/index.m3u8
+#EXTINF:0 group-title="בידור ופנאי" tvg-id="food-network-il" tvg-logo="https://af-play.com/storage/images/pack_logos/02e6f16947a374e7c70d644f0e9d25d0.png",רשת מזון
+http://96dc02c9.ottolok.net/iptv/R28LVZLC9QL2Y6/2377/index.m3u8
+#EXTINF:0 group-title="בידור ופנאי" tvg-id="good-life-il" tvg-logo="https://af-play.com/storage/images/pack_logos/c7f1484938622f7bc3dad0a6cf5c24a7.png",[COLOR ff305bdהחיים הטובים
+http://96dc02c9.ottolok.net/iptv/R28LVZLC9QL2Y6/2355/index.m3u8
+#EXTINF:0 group-title="בידור ופנאי" tvg-id="hot-zone-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/1bb5cc5b621a35934729462387ecf894.png",הוט סדרות ארה"ב
+http://96dc02c9.ottolok.net/iptv/R28LVZLC9QL2Y6/2354/index.m3u8
+#EXTINF:0 group-title="בידור ופנאי" tvg-id="hot3-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/74c1c0d13bf5172b80ddf344979cf483.png",HOT 3
+http://96dc02c9.ottolok.net/iptv/R28LVZLC9QL2Y6/12214/index.m3u8
+#EXTINF:0 group-title="בידור ופנאי" tvg-id="hot-8-il-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/8ecc8229a90fce1c1181cb721bcb75dd.png",HOT 8
+http://96dc02c9.ottolok.net/iptv/R28LVZLC9QL2Y6/12216/index.m3u8
+#EXTINF:0 group-title="בידור ופנאי" tvg-id="hot-comedy-central-il-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/479ecd9c606cac2ebdfd10a7f5f1297d.png",הוט קומדי סנטרל
+http://96dc02c9.ottolok.net/iptv/R28LVZLC9QL2Y6/12217/index.m3u8
+#EXTINF:0 group-title="בידור ופנאי" tvg-id="home-plus-il" tvg-logo="https://af-play.com/storage/images/pack_logos/4cb28fd7f24a5a9ee7d3ddd113fab3c6.png",בית+
+http://96dc02c9.ottolok.net/iptv/R28LVZLC9QL2Y6/12266/index.m3u8
+
+
+
+#EXTINF:0 group-title="ילדים" tvg-id="disney-jr-il" tvg-logo="https://af-play.com/storage/images/pack_logos/c4c399d6bea7ec2406817deba1e07cb3.png",דיסני ג'וניור
+http://96dc02c9.ottolok.net/iptv/R28LVZLC9QL2Y6/2365/index.m3u8
+#EXTINF:0 group-title="ילדים" tvg-id="nick-jr-il" tvg-logo="https://af-play.com/storage/images/pack_logos/299e4bc068cbedf20b85e5cbb40023fd.png",ניק ג'וניור
+http://96dc02c9.ottolok.net/iptv/R28LVZLC9QL2Y6/2337/index.m3u8
+#EXTINF:0 group-title="ילדים" tvg-id="teennick-il" tvg-logo="https://af-play.com/storage/images/pack_logos/5aa1de58316eec08102daeeecd7c0940.png",טייניק
+http://96dc02c9.ottolok.net/iptv/R28LVZLC9QL2Y6/2334/index.m3u8
+#EXTINF:0 group-title="ילדים" tvg-id="hop-childhood-il" tvg-logo="https://af-play.com/storage/images/pack_logos/f1cf7afb7d0b38cc1ca069774c9713eb.png",הופ
+http://96dc02c9.ottolok.net/iptv/R28LVZLC9QL2Y6/2338/index.m3u8
+#EXTINF:0 group-title="ילדים" tvg-id="luli-il" tvg-logo="https://af-play.com/storage/images/pack_logos/1e089dc3e45099a3093a2c7986f50243.png",לולי
+http://96dc02c9.ottolok.net/iptv/R28LVZLC9QL2Y6/2364/index.m3u8
+#EXTINF:0 group-title="ילדים" tvg-id="baby-il" tvg-logo="https://af-play.com/storage/images/pack_logos/dfb1abd80b9a1255ce3d1acc72a4610b.png",בייבי
+http://96dc02c9.ottolok.net/iptv/R28LVZLC9QL2Y6/2370/index.m3u8
+#EXTINF:0 group-title="ילדים" tvg-id="junior-il" tvg-logo="https://af-play.com/storage/images/pack_logos/c4afc4ff4c3bd8e9d7c6df6046d66850.png",ג'וניור
+http://96dc02c9.ottolok.net/iptv/R28LVZLC9QL2Y6/2366/index.m3u8
+
+
+
